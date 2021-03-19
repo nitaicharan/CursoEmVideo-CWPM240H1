@@ -98,6 +98,8 @@ Email: cursoemvideocwpm240h@gmail.com
 
 * Plugins:
 - WPForms Lite
+- EWWW Image Optimizer
+- WP Super Cache
 ```
 
 <!-- MARKDOWN LINKS & IMAGES -->
